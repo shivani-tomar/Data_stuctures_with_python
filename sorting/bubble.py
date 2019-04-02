@@ -17,8 +17,3 @@ class Bubble:
         print(self.lists)
     
     
-# a = [6,5,4,3,2,1 ,7 , 9 ,10 , 34]
-# b = [1,2,3,4,5,6]
-# # print(bubble(a));
-# bubble = Bubble(a)
-# bubble.bubble()
