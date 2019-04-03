@@ -1,6 +1,6 @@
 # Welcome to the Data_stuctures_with_python wiki!
 
-"_**Data_structures_with_python**_" is a repository which consist of implementation of all the data structures using python language in as very _simple coding style_, _easy to understand_ and _easy to run_. You can easily manipulate data and run codes on your own data.
+"_**Data_structures_with_python**_" is a repository which consist of implementation of all the data structures using python language in as very _simple coding style using oops concepts_, _easy to understand_ and _easy to run_. You can easily manipulate data and run codes on your own data without any headache internal working.
 
 
 
